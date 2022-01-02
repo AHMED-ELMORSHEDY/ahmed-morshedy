@@ -1,5 +1,6 @@
 FROM openjdk
 
+
 WORKDIR /test
 
 COPY marsh.java /test
